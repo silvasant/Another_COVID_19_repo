@@ -10,6 +10,7 @@
 library(shiny)
 
 devtools::install_github("RamiKrispin/coronavirus")
+# skere
 
 library(coronavirus) 
 library(tidyverse)
